@@ -11,6 +11,7 @@
    <property name="hibernate.hbm2ddl.auto">create</property>
    <mapping  class="com.app.model.Pancard"/>
    <mapping  class="com.app.model.Person"/>
+   <mapping  class="com.app.model.Person"/>
   </session-factory>
   </hibernate-configuration>
   
